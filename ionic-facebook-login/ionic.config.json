@@ -1,0 +1,7 @@
+{
+  "name": "ionic-facebook-login",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
